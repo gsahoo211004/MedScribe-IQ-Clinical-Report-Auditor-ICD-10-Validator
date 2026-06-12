@@ -141,7 +141,3 @@ http://localhost:5000
 
 - If the LLM summary fails, verify `GEMINI_API_KEY` is set and valid.
 - If WHO API calls fail, check `ICD_CLIENT_ID` / `ICD_CLIENT_SECRET` and network connectivity.
-
-## License
-
-Add your project license information here.
